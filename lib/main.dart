@@ -1,4 +1,4 @@
-import 'ui/form_data.dart';
+import 'package:tugas_2/ui/form_data.dart';
 import 'package:flutter/material.dart';
 
 void main() {
